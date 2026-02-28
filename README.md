@@ -1,8 +1,11 @@
-Welcome to your new dbt project!
+Welcome to shopflow dbt project!
 
 ### Using the starter project
 
 Try running the following commands:
+- dbt deps
+- dbt seed
+- dbt snapshot
 - dbt run
 - dbt test
 
