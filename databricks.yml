@@ -4,13 +4,13 @@ bundle:
 variables:
   warehouse_id:
     description: SQL Warehouse ID for the dbt task (overridden per target)
-    default: "99e6cadb07660c72"
+    default: "xx"
   warehouse_id_dev:
     description: SQL Warehouse ID for dev target
-    default: "99e6cadb07660c72"
+    default: "xx"
   warehouse_id_prod:
     description: SQL Warehouse ID for or prod target
-    default: "99e6cadb07660c72"
+    default: "xx"
   catalog:
     description: Unity catalog name for dbt
     default: workspace
